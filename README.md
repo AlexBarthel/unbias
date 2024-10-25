@@ -1,6 +1,9 @@
 # Unbias
 ## Made by Alex Barthel
 
+<img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/differ?style=flat-square&labelColor=343b41"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/differ?style=flat-square&labelColor=343b41"/>
+
 ### How to Use
 Download unbias.zip from this repository and extract the files. Then, open Google Chrome or a browser of your choice, and find the extensions page. On Chrome, you'll need to have "Developer Mode" enabled, but this may vary for other browsers. Finally, click the "Load Unpacked" button and select the folder that contains the Chrome Extension. You're ready to use Unbias!
 
